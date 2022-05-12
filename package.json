@@ -1,0 +1,27 @@
+{
+  "name": "npm-intro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RajShringi/node-npm-intro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RajShringi/node-npm-intro/issues"
+  },
+  "homepage": "https://github.com/RajShringi/node-npm-intro#readme",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "moment": "^2.29.3",
+    "parcel-bundler": "^1.12.5"
+  },
+  "devDependencies": {
+    "parcel": "^2.5.0"
+  }
+}
